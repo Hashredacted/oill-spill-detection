@@ -14,7 +14,6 @@ This project leverages **Convolutional Neural Networks (CNNs)** and later **U-Ne
 
 ## 📂 Dataset
 
-* **Source**: [Kaggle Oil Spill Detection Dataset](https://www.kaggle.com/datasets/ashrafkhan94/oil-spill)
 * **Classes**:
 
   * `oilspill`
@@ -104,4 +103,5 @@ pip install -r requirements.txt
 ## 👨‍💻 Author
 
 Developed as part of internship by **Mohammad Afnan Mirza**
+
 
